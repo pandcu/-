@@ -1,4 +1,4 @@
-# 实验一 安装相关软件
+# 实验1 安装相关软件
 ## 1. 安装Android Studio
 ![android studio](./screenshot/AndroidStudio.jpg)
 ## 2. 安装anaconda
