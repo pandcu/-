@@ -1,6 +1,4 @@
-
-# 实验2_2 构建CameraX应用 {ignore=true}
-[TOC]
+# 实验2_2 构建CameraX应用
 ## 1 创建项目
 ### 1.1 新建空项目
 在Android Studio中创建一个新项目，选择“Empty Activity”,为项目命名，选择Kotlin语言开发，设定最低支持API Level 21（**CameraX所需的最低级别**）  
