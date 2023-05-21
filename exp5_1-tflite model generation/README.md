@@ -1,4 +1,4 @@
-# 实验5 TensorFlow lite模型生成
+# 实验5_1 TensorFlow lite模型生成
 ## 1 准备工作
 ### 创建codesapce
 在github提供的codespace环境里选择空白模板进行创建：  
