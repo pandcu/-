@@ -5,3 +5,4 @@
 [实验3 Jupyter Notebook实践](./exp3-Jupyter%20Notebook/README.md)  
 [实验4 实现图像分类APP](./exp4-picture%20classify%20app/README.md)  
 [实验5_1 TensorFlow lite模型生成](./exp5_1-tflite%20model%20generation/README.md)  
+[实验5_2 TensorFlow 石头剪刀布模型生成](./exp5_2-tensorflow%20rps%20model/README.md)  
